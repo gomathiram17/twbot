@@ -1,0 +1,7 @@
+twitter bot:
+
+it is used for auto replying, retweeting, and liking.
+ after the program is written,
+ it is deployed i.e posted in online server(WWW.pythonanywhere.com) for lifetime running.
+ if it is paid, it runs lifelong without interuption
+ but we use free one, so it will be interuppted after a while , but can be re run anytime.
